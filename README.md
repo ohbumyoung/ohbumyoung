@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   [![GitHub stats](https://github-stats-extended.vercel.app/api?username=ohbumyoung)]()
 
   <!-- 가장 많이 사용한 언어 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohbumyoung&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sjlimiei26&langs_count=4)]()
 
 </div>
 
