@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   <!-- 깃허브 활동 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ohbumyoung&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=ohbumyoung)]()
 
   <!-- 가장 많이 사용한 언어 카드 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohbumyoung&layout=compact&theme=radical&hide_border=true" height="180px"/>
